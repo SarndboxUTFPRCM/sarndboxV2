@@ -6023,7 +6023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.07450981, g: 1, b: 0, a: 0.39215687}
+  m_Color: {r: 0.07450986, g: 1, b: 0, a: 0.39215687}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -7282,7 +7282,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: General
+  m_Text: Geral
 --- !u!222 &231072910
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15839,7 +15839,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Contour Labels
+  m_Text: Etiquetas de contorno
 --- !u!222 &478018109
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23337,9 +23337,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Lens Shift
-
-    Calibration'
+  m_Text: "Desloca\xE7\xE3o de lente\nCalibra\xE7\xE3o"
 --- !u!222 &709098588
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25683,7 +25681,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Back
+  m_Text: Voltar
 --- !u!222 &782607291
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26242,7 +26240,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Back
+  m_Text: Voltar
 --- !u!222 &792098191
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26587,7 +26585,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Touch LOWEST Point
+  m_Text: Toque o ponto MAIS BAIXO
 --- !u!222 &804913227
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26845,7 +26843,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cancel Calibration
+  m_Text: "Cancelar calibra\xE7\xE3o"
 --- !u!222 &816688514
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -30727,7 +30725,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Min Depth
+  m_Text: "Profundidade M\xEDnima"
 --- !u!222 &926783918
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -37103,9 +37101,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Depth Calibration Instructions:\n\nTouch the LOWEST part of the depth image
-    and then the HIGHEST. \n\nThe depth range can be fine-tuned with the sliders to
-    the right."
+  m_Text: "Intru\xE7\xF5es para a calibra\xE7\xE3o de profundidade:\n\nToque a parte
+    MAIS BAIXA da imagem de profundidade e ent\xE3o a parte MAIS ALTA. \n\nA faixa
+    de profundidade pode ser ajustada com os sliders na direita."
 --- !u!222 &1106086470
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -39048,7 +39046,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Accept
+  m_Text: Aceitar
 --- !u!222 &1174228983
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -41248,7 +41246,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Are you sure?
+  m_Text: "Voc\xEA tem certeza?"
 --- !u!222 &1229139309
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -47076,7 +47074,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Max Depth
+  m_Text: "Profundidade M\xE1xima"
 --- !u!222 &1428491665
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -50898,15 +50896,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Lens Shift Calibration Instructions:
-
-
-    Use the Lens Shift option to make the peaks and troughs line up on the projection.
+  m_Text: "Instru\xE7\xF5es para calibra\xE7\xE3o de desloca\xE7\xE3o de lente:\n\nUse
+    the Lens Shift option to make the peaks and troughs line up on the projection.
     Note that you will probably have to use the Horizontal Translation afterwards
-    to line up the projection properly.
-
-
-    Use the other options to fine tune the calibration.'
+    to line up the projection properly.\n\nUse the other options to fine tune the
+    calibration."
 --- !u!222 &1545396925
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -55397,7 +55391,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Next
+  m_Text: "Pr\xF3ximo"
 --- !u!222 &1682138440
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56472,7 +56466,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -56483,9 +56477,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Algum problema ou perguntas?
-
-    Nos contate em redesarndbox@gmail.com'
+  m_Text: "Algum problema ou perguntas?\nContatos: \nredesarndbox@gmail.com\nmonasharsandbox@gmail.com"
 --- !u!222 &1702053399
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56794,7 +56786,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Next
+  m_Text: "Pr\xF3ximo"
 --- !u!222 &1723635557
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -61241,7 +61233,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Constutor de tipografia
+  m_Text: Construtor de topografia
 --- !u!222 &1854840237
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -61633,7 +61625,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cancel Calibration
+  m_Text: "Cancelar calibra\xE7\xE3o"
 --- !u!222 &1875784980
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -67171,7 +67163,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cancel
+  m_Text: Cancelar
 --- !u!222 &1996988963
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -67495,7 +67487,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Corner Calibration
+  m_Text: "Calibra\xE7\xE3o de canto"
 --- !u!222 &2004876582
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -73935,7 +73927,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Depth Calibration
+  m_Text: "Calibra\xE7\xE3o de profundidade"
 --- !u!222 &2134829635
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -74280,14 +74272,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Corner Calibration Instructions:
-
-
-    Drag the CYAN corners around the shape of the sandbox in the depth image.
-
-
-    Drag the RED corners to the actual corners projected onto the sandbox (Look at
-    projection).'
+  m_Text: "Instru\xE7\xE3o para calibrar o canto:\n\nArraste os cantos CIANO em volta
+    da forma da sandbox na imagem.\n\nArraste os cantos VERMELHOS nos cantos projetados
+    em cima da sandbox (Olhe para a proje\xE7\xE3o)."
 --- !u!222 &2140435787
 CanvasRenderer:
   m_ObjectHideFlags: 0
