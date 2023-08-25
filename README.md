@@ -15,13 +15,11 @@ Updates include:
 * Various configuration options
 * Support for a secondary touch screen
 
- ## Requirements
- * Windows 7 or newer
- * Unity 2017.4.X (last developed version, project can be updated)
+ ## Requisitos para executar o projeto
+ * Windows 7 ou mais novo
  * Kinect 2
- * Kinect for Windows SDK (available [here](https://www.microsoft.com/en-au/download/details.aspx?id=44561))
 
-## License
+## Licença
 GNU General Public License v3.0 or later
 
 See [COPYING](COPYING) to see the full text
