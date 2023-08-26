@@ -4,16 +4,8 @@ This project is a from-scratch Unity rebuild and extension of the AR Sandbox pro
 
 The new version was developed in [SensiLab](https://sensilab.monash.edu) at Monash University, Melbourne, Australia
 
-Updates include:
-* Rebuilt in Unity for faster iteration of new features
-* Use of the Windows Kinect SDK for support of newer Kinect hardware (Kinect 2)
-* Updated Water simulations
-* Fire simulations
-* Wind simulations
-* Complex Geology simulations
-* Ability to save, recall and export topologies
-* Various configuration options
-* Support for a secondary touch screen
+## BAIXE O TUTORIAL
+Baixe o tutorial para a utilização do projeto [aqui](https://drive.google.com/file/d/1S4aQGnXGdHpr4u0eP235gyj-Lj73dYv9/view?usp=sharing).
 
  ## Requisitos para executar o projeto
  * Windows 7 ou mais novo
